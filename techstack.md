@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 CRYPTO-GENIK/NFT-DAPP-TEMPLATE is built on the following main stack:
+
 - [Acunote](http://www.acunote.com/) – Agile Project Management
 - [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
@@ -17,11 +18,13 @@ CRYPTO-GENIK/NFT-DAPP-TEMPLATE is built on the following main stack:
 - [Prettier](https://prettier.io/) – Code Review
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 CRYPTO-GENIK/NFT-DAPP-TEMPLATE is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/2/acunote.png' alt='Acunote'/> [Acunote](http://www.acunote.com/) – Agile Project Management
 - <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
@@ -37,14 +40,15 @@ CRYPTO-GENIK/NFT-DAPP-TEMPLATE is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [CRYPTO-GENIK/NFT-DAPP-TEMPLATE](https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|40<br/>Tools used|11/10/23 <br/>Report generated|
+|41<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -231,9 +235,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (21)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (22)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (21)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (22)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -245,6 +249,7 @@ Full tech stack [here](/techstack.md)
 |[bn.js](https://www.npmjs.com/bn.js)|v5.2.0|08/31/21|Cryptogenik |MIT|N/A|
 |[chokidar](https://www.npmjs.com/chokidar)|v3.5.1|08/31/21|Cryptogenik |MIT|N/A|
 |[cross-env](https://www.npmjs.com/cross-env)|v7.0.2|08/31/21|Cryptogenik |MIT|N/A|
+|[cssnano](https://www.npmjs.com/cssnano)|v5.0.3|08/31/21|Cryptogenik |MIT|N/A|
 |[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v8.3.0|08/31/21|Cryptogenik |MIT|N/A|
 |[ethers](https://www.npmjs.com/ethers)|v5.1.4|08/31/21|Cryptogenik |MIT|N/A|
 |[fs-extra](https://www.npmjs.com/fs-extra)|v10.0.0|08/31/21|Cryptogenik |MIT|N/A|
@@ -262,4 +267,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
