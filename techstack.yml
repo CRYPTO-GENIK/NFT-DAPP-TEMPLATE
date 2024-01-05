@@ -1,11 +1,12 @@
 repo_name: CRYPTO-GENIK/NFT-DAPP-TEMPLATE
 report_id: 4ebe81e8b13669d5ba920849ada2dfa1
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T23:59:23+00:00'
+timestamp: '2024-01-05T08:52:17+00:00'
 requested_by: CRYPTO-GENIK
 provider: github
 branch: main
-detected_tools_count: 40
+detected_tools_count: 41
 tools:
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE
   detection_source: Repo Metadata
 - name: Handlebars.js
   description: Minimal Templating on Steroids
@@ -25,7 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/1143/Handlebars.png
-  detection_source_url: subgraph/package.json
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE/blob/main/subgraph/package.json
   detection_source: subgraph/package.json
   last_updated_by: Cryptogenik
   last_updated_on: 2021-08-31 15:19:15.000000000 Z
@@ -38,6 +40,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -48,6 +51,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE
   detection_source: Repo Metadata
 - name: Autoprefixer
   description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
@@ -57,6 +61,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: Cryptogenik
   last_updated_on: 2021-08-31 15:19:15.000000000 Z
@@ -69,6 +74,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE/blob/main/contracts/package.json
   detection_source: contracts/package.json
   last_updated_by: Cryptogenik
   last_updated_on: 2021-08-31 15:19:15.000000000 Z
@@ -81,7 +87,8 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/6113/7exmJEg4_400x400.png
-  detection_source: web/package.json
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE/blob/main/package.json
+  detection_source: package.json
   last_updated_by: Cryptogenik
   last_updated_on: 2021-08-31 15:19:15.000000000 Z
 - name: GraphQL
@@ -92,7 +99,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Query Languages
   image_url: https://img.stackshare.io/service/3820/12972006.png
-  detection_source: web/package.json
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE/blob/main/subgraph/schema.graphql
+  detection_source: subgraph/schema.graphql
   last_updated_by: Cryptogenik
   last_updated_on: 2021-08-31 15:19:15.000000000 Z
 - name: Chai
@@ -105,7 +113,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/1725/chai.png
-  detection_source_url: contracts/package.json
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE/blob/main/contracts/package.json
   detection_source: contracts/package.json
   last_updated_by: Cryptogenik
   last_updated_on: 2021-08-31 15:19:15.000000000 Z
@@ -118,7 +126,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Server Configuration and Automation
   image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
-  detection_source: subgraph/package.json
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE/blob/main/contracts/package.json
+  detection_source: contracts/package.json
   last_updated_by: Cryptogenik
   last_updated_on: 2021-08-31 15:19:15.000000000 Z
 - name: ESLint
@@ -130,7 +139,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
-  detection_source: web/package.json
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE/blob/main/common-lib/package.json
+  detection_source: common-lib/package.json
   last_updated_by: Cryptogenik
   last_updated_on: 2021-08-31 15:19:15.000000000 Z
 - name: Git
@@ -141,6 +151,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE
   detection_source: Repo Metadata
 - name: Mocha
   description: Simple, flexible, fun javascript test framework for node.js &amp; the
@@ -153,7 +164,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/832/mocha.png
-  detection_source_url: contracts/package.json
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE/blob/main/contracts/package.json
   detection_source: contracts/package.json
   last_updated_by: Cryptogenik
   last_updated_on: 2021-08-31 15:19:15.000000000 Z
@@ -167,8 +178,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
-  detection_source_url: _prettier-vscode-fix/package-lock.json
-  detection_source: web/package.json
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE/blob/main/_prettier-vscode-fix/package-lock.json
+  detection_source: _prettier-vscode-fix/package.json
   last_updated_by: Cryptogenik
   last_updated_on: 2021-08-31 15:19:15.000000000 Z
 - name: npm
@@ -179,7 +190,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
-  detection_source: subgraph/package.json
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE/blob/main/common-lib/package.json
+  detection_source: common-lib/package.json
   last_updated_by: Cryptogenik
   last_updated_on: 2021-08-31 15:19:15.000000000 Z
 - name: Acunote
@@ -190,6 +202,7 @@ tools:
   category: Collaboration
   sub_category: Agile Project Management
   image_url: https://img.stackshare.io/service/2/acunote.png
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE/blob/main/subgraph/package.json
   detection_source: subgraph/package.json
   last_updated_by: Cryptogenik
   last_updated_on: 2021-08-31 15:19:15.000000000 Z
@@ -202,6 +215,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE
   detection_source: Repo Metadata
 - name: cssnano
   description: A modular minifier, based on the PostCSS ecosystem. Created by @ben_eb.
@@ -209,6 +223,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/6612/ehMiE-wz_normal.jpg
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: Cryptogenik
   last_updated_on: 2021-08-31 15:19:15.000000000 Z
@@ -218,6 +233,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/4959/1__IS8pZzkhvd6kUbSFpSgag.png
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE
   detection_source: Repo Metadata
 - name: "@types/chai"
   description: TypeScript definitions for chai
@@ -229,7 +245,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15922/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: contracts/package.json
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE/blob/main/contracts/package.json
   detection_source: contracts/package.json
   last_updated_by: Cryptogenik
   last_updated_on: 2021-08-31 15:19:15.000000000 Z
@@ -243,7 +259,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15893/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: contracts/package.json
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE/blob/main/contracts/package.json
   detection_source: contracts/package.json
   last_updated_by: Cryptogenik
   last_updated_on: 2021-08-31 15:19:15.000000000 Z
@@ -257,7 +273,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: contracts/package.json
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE/blob/main/contracts/package.json
   detection_source: contracts/package.json
   last_updated_by: Cryptogenik
   last_updated_on: 2021-08-31 15:19:15.000000000 Z
@@ -271,8 +287,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: common-lib/package.json
-  detection_source: web/package.json
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE/blob/main/common-lib/package.json
+  detection_source: common-lib/package.json
   last_updated_by: Cryptogenik
   last_updated_on: 2021-08-31 15:19:15.000000000 Z
 - name: "@typescript-eslint/parser"
@@ -285,8 +301,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
-  detection_source_url: common-lib/package.json
-  detection_source: web/package.json
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE/blob/main/common-lib/package.json
+  detection_source: common-lib/package.json
   last_updated_by: Cryptogenik
   last_updated_on: 2021-08-31 15:19:15.000000000 Z
 - name: bn.js
@@ -299,7 +315,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16585/default_f7592cb347fae67ce7c7f221ddd5fd2cb0afc28f.png
-  detection_source_url: web/package.json
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: Cryptogenik
   last_updated_on: 2021-08-31 15:19:15.000000000 Z
@@ -313,7 +329,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16043/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: subgraph/package.json
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE/blob/main/subgraph/package.json
   detection_source: subgraph/package.json
   last_updated_by: Cryptogenik
   last_updated_on: 2021-08-31 15:19:15.000000000 Z
@@ -327,8 +343,22 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: contracts/package.json
-  detection_source: package.json
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE/blob/main/contracts/package.json
+  detection_source: contracts/package.json
+  last_updated_by: Cryptogenik
+  last_updated_on: 2021-08-31 15:19:15.000000000 Z
+- name: cssnano
+  description: A modular minifier, built on top of the PostCSS ecosystem
+  package_url: https://www.npmjs.com/cssnano
+  version: 5.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16102/default_efe4f0184d007a28e793d89a59e058b742bc9177.png
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE/blob/main/web/package.json
+  detection_source: web/package.json
   last_updated_by: Cryptogenik
   last_updated_on: 2021-08-31 15:19:15.000000000 Z
 - name: eslint-config-prettier
@@ -341,8 +371,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
-  detection_source_url: common-lib/package.json
-  detection_source: web/package.json
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE/blob/main/common-lib/package.json
+  detection_source: common-lib/package.json
   last_updated_by: Cryptogenik
   last_updated_on: 2021-08-31 15:19:15.000000000 Z
 - name: ethers
@@ -355,7 +385,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17297/default_3ec53c4dad64de27b72cc81401e898b5aea82f2c.png
-  detection_source_url: contracts/package.json
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE/blob/main/contracts/package.json
   detection_source: contracts/package.json
   last_updated_by: Cryptogenik
   last_updated_on: 2021-08-31 15:19:15.000000000 Z
@@ -370,8 +400,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15836/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
-  detection_source_url: contracts/package.json
-  detection_source: subgraph/package.json
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE/blob/main/contracts/package.json
+  detection_source: contracts/package.json
   last_updated_by: Cryptogenik
   last_updated_on: 2021-08-31 15:19:15.000000000 Z
 - name: handlebars
@@ -385,7 +415,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16013/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
-  detection_source_url: subgraph/package.json
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE/blob/main/subgraph/package.json
   detection_source: subgraph/package.json
   last_updated_by: Cryptogenik
   last_updated_on: 2021-08-31 15:19:15.000000000 Z
@@ -399,7 +429,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18535/default_facb3d90939b4d7da360a94dfdaff1a95a1a96ba.png
-  detection_source_url: web/package.json
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: Cryptogenik
   last_updated_on: 2021-08-31 15:19:15.000000000 Z
@@ -413,8 +443,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15926/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
-  detection_source_url: common-lib/package.json
-  detection_source: subgraph/package.json
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE/blob/main/common-lib/package.json
+  detection_source: common-lib/package.json
   last_updated_by: Cryptogenik
   last_updated_on: 2021-08-31 15:19:15.000000000 Z
 - name: postcss
@@ -427,7 +457,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16012/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
-  detection_source_url: web/package.json
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: Cryptogenik
   last_updated_on: 2021-08-31 15:19:15.000000000 Z
@@ -448,8 +478,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: package.json
-  detection_source: subgraph/package.json
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE/blob/main/package.json
+  detection_source: package.json
   last_updated_by: Cryptogenik
   last_updated_on: 2021-08-31 15:19:15.000000000 Z
 - name: solidity-coverage
@@ -462,7 +492,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18573/default_fb79d45b291e13c71fc773f6fb21d0111f62c104.png
-  detection_source_url: contracts/package.json
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE/blob/main/contracts/package.json
   detection_source: contracts/package.json
   last_updated_by: Cryptogenik
   last_updated_on: 2021-08-31 15:19:15.000000000 Z
@@ -476,7 +506,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17398/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
-  detection_source_url: web/package.json
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: Cryptogenik
   last_updated_on: 2021-08-31 15:19:15.000000000 Z
@@ -490,7 +520,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: contracts/package.json
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE/blob/main/contracts/package.json
   detection_source: contracts/package.json
   last_updated_by: Cryptogenik
   last_updated_on: 2021-08-31 15:19:15.000000000 Z
@@ -504,7 +534,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
-  detection_source_url: web/package.json
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE/blob/main/web/package.json
   detection_source: web/package.json
   last_updated_by: Cryptogenik
   last_updated_on: 2021-08-31 15:19:15.000000000 Z
@@ -519,7 +549,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17821/default_a53af9d6b5a4c8c6e8d5f8494d76a8d2efd3e660.png
-  detection_source_url: package.json
-  detection_source: subgraph/package.json
+  detection_source_url: https://github.com/CRYPTO-GENIK/NFT-DAPP-TEMPLATE/blob/main/package.json
+  detection_source: package.json
   last_updated_by: Cryptogenik
   last_updated_on: 2021-08-31 15:19:15.000000000 Z
