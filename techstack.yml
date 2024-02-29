@@ -2,7 +2,7 @@ repo_name: CRYPTO-GENIK/NFT-DAPP-TEMPLATE
 report_id: 4ebe81e8b13669d5ba920849ada2dfa1
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:52:17+00:00'
+timestamp: '2024-02-29T18:37:35+00:00'
 requested_by: CRYPTO-GENIK
 provider: github
 branch: main
@@ -169,7 +169,7 @@ tools:
   last_updated_by: Cryptogenik
   last_updated_on: 2021-08-31 15:19:15.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.3.0
   license: MIT
